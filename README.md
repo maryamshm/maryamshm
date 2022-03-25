@@ -3,8 +3,9 @@
 <h3 align="left">A little more about me: </h3>
 
 ```Js
-  const Mry = {
-  pronouns: "she" | "her",
+  const Maryam = {
+  Age: [Mry, Naryan],
+  age: 20,
   code: [HTML, CSS, Javascript, PHP, Java, Kotlin,
   Dart, C#],
   tools: [React, Vue, Laravel,
