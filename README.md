@@ -12,3 +12,13 @@
 <span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
   </div></div>
 
+```Js
+  const Mry = {
+  pronouns: "she" | "her",
+  code: [HTML, CSS, Javascript, PHP, Java, Kotlin,
+  Dart, C#],
+  tools: [React, Vue, Laravel,
+  Flutter,
+  ],
+}
+  ```
