@@ -4,12 +4,12 @@
 
 ```Js
   const Maryam = {
-  nickname: [Mry, Naryan],
-  age: 20,
-  code: [HTML, CSS, Javascript, PHP, Java, Kotlin,
-  Dart, C#],
-  tools: [React, Vue, Laravel,
-  Flutter,
+  nickname: ["Mry", "Naryan"],
+  age: 21,
+  code: ["HTML", "CSS", "Javascript", "PHP", "Java", "Kotlin",
+  "Dart", "C#"],
+  tools: ["React", "Vue", "Laravel",
+  "Flutter",
   ],
 }
   ```
