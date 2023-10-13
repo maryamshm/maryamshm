@@ -6,7 +6,7 @@
   const Maryam = {
    nickname: ["Mry", "Naryan"],
    age: 22,
-   code: ["HTML", "CSS", "Javascript", "PHP", "Java"],
+   code:  ["HTML", "CSS", "Javascript", "PHP", "Java"],
    other: ["Vue", "Laravel", 'UI/UX'],
    university: ['Shariaty']
   }
