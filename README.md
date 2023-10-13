@@ -5,10 +5,9 @@
 ```Js
   const Maryam = {
    nickname: ["Mry", "Naryan"],
-   age: 21,
-   code: ["HTML", "CSS", "Javascript", "PHP", "Java", "Kotlin",
-         "Dart", "C#"],
-   tools: ["React", "Vue", "Laravel",
-          "Flutter"],
+   age: 22,
+   code: ["HTML", "CSS", "Javascript", "PHP", "Java"],
+   other: ["Vue", "Laravel", 'UI/UX'],
+   university: ['Shariaty']
   }
   ```
